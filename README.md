@@ -1,13 +1,13 @@
 # Personal Finance Dashboard (Power BI)
 
-## 📸 Dashboard Preview
-![Portada](images/portada_dashboard_financieroPB1.jpg)
-![Ingresos](images/ingresos_dashboard_financieroPB1.png)
-![Gastos](images/gastos_dashboard_financieroPB1.png)
+## Dashboard Preview
+![Portada](portada_dashboard_financieroPB1.png)
+![Ingresos](ingresos_dashboard_financieroPB1.png)
+![Gastos](gastos_dashboard_financieroPB1.png)
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 An end-to-end interactive financial tracking solution built in Power BI to monitor liquidity health, track income streams, and analyze expenditure behaviors. 
 
 ### Key Features:
@@ -15,12 +15,12 @@ An end-to-end interactive financial tracking solution built in Power BI to monit
 * **Advanced UI/UX:** Developed a high-contrast dark theme optimized for key KPI visibility and clear data hierarchy.
 * **Granular Tracking:** Categorized transactional data to isolate recurring revenue metrics, monthly savings, and spending clusters.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **BI & Visualization:** Power BI Desktop
 * **ETL & Data Cleaning:** Power Query 
 * **Design Framework:** Custom layout design & layer synchronization
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── data/                  # Sample financial datasets
 ├── images/                # Dashboard screenshots (Portada, Ingresos, Gastos)
